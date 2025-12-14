@@ -1,3 +1,6 @@
+## Why I Code
+I code for two main reasons. Firstly, I enjoy solving a good problem or puzzle, as well as creating something at the same time; it scratches that itch in my brain. The ability to solve problems while having the freedom to build in whichever way you want is why I got drawn to, and stuck with, programming. Secondly, I want to create and develop software that does more than increase a company's productivity or profits. I want the software I build to further humanity's advancement in artificial intelligence, aerospace, and networking, all fields I am passionate about.  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-jifi-bahlool/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ali-jifi.github.io/alijifi-portfolio.github.io/)
