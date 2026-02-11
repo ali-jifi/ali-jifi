@@ -1,5 +1,7 @@
 ## Howdy!
-I code to solve problems, create meaningful solutions, and sometimes even for fun. Programming itches my brain while offering creative freedom. I'm driven to build software that advances humanity, particularly in AI/ML, aerospace, and networking.
+I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable). 
+Programming itches my brain while offering creative freedom. 
+I'm driven to build software that advances humanity, particularly in AI/ML, aerospace, and networking.
 
 # Socials 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-jifi-bahlool/)
