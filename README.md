@@ -3,7 +3,7 @@ I code to solve problems, create meaningful solutions, and sometimes even for fu
 Programming itches my brain while offering creative freedom. 
 I'm driven to build software that advances humanity, particularly in AI/ML, aerospace, and networking.
 
-## Some Skills I'm currently learning 
+## Some skills/roles I'm currently learning:
 AI/ML Engineer
 
 Data Scientist/Engineer 
