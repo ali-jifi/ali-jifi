@@ -1,5 +1,5 @@
 ## Howdy!
-I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable). 
+I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable right). 
 Programming itches my brain while offering creative freedom. 
 I'm driven to build software that advances humanity, particularly in AI/ML, aerospace, and networking.
 
