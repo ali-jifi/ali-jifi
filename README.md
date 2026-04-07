@@ -1,7 +1,7 @@
 ## Howdy!
 I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable right). 
-Programming itches my brain while offering creative freedom. 
-I'm driven to build software that advances humanity, particularly in AI/ML, aerospace, and networking.
+Programming caters to my engineering side while offering my creative side freedom as well. 
+I'm committed to building software that has a net positive on humanity, particularly in AI/ML, aerospace, and networking.
 
 ## Some skills/roles I'm currently learning:
 AI/ML Engineer
