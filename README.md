@@ -1,6 +1,6 @@
 ## Howdy!
 I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable right). 
-Programming caters to my engineering side while offering my creative side freedom as well. 
+Programming enables my engineering side while also offering my creative side freedom. 
 I'm committed to building software that has a net positive on humanity, particularly in AI/ML, aerospace, and networking.
 
 ## Some skills/roles I'm currently learning:
