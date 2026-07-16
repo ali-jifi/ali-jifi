@@ -2,7 +2,7 @@
 
 I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable, right?).
 Programming enables my engineering side while also offering my creative side freedom.
-I'm committed to building software that has a net positive on humanity — particularly in **AI/ML, aerospace, and networking**.
+I'm committed to building software that has a net positive on humanity, particularly in **AI/ML, aerospace, and networking**.
 
 - Currently building data pipelines for satellite science and learning AI/ML engineering
 - Growing into: AI/ML Engineering · Data Science & Engineering · DevOps/MLOps · AI Safety
