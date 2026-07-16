@@ -64,7 +64,7 @@ I'm committed to building software that has a net positive on humanity, particul
 ## Chess
 
 <!-- CHESS-START -->
-Anyone can play — you move for whichever side is up. It's **White's** turn. Pick a move below: it opens a pre-filled GitHub issue, and pressing **Create** makes your move. The board updates in about a minute.
+Anyone can play, just move for whichever side is up. It's currently **White's** turn. Pick a move below: it opens a pre-filled GitHub issue, and pressing **Create** makes your move. The board updates in about a minute.
 
 <img src="generated/chess-board.svg" alt="Current chess board" width="400">
 
