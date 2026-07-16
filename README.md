@@ -58,8 +58,8 @@ I'm committed to building software that has a net positive on humanity — parti
 
 ## GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-jifi&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jifi&layout=compact&theme=transparent&hide_border=true)
+![Ali's GitHub stats](generated/stats.svg)
+![Top Langs](generated/languages.svg)
 
 ## Socials
 
