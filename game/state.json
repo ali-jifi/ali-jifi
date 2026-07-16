@@ -1,0 +1,12 @@
+{
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "game_no": 1,
+  "last_player": null,
+  "last_move": null,
+  "recent": [],
+  "results": {
+    "white": 0,
+    "black": 0,
+    "draw": 0
+  }
+}

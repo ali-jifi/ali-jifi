@@ -1,0 +1,54 @@
+name: Community chess
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: chess
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install python-chess
+        run: pip install chess
+
+      - name: Play the move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          PLAYER: ${{ github.event.issue.user.login }}
+          COMMENT_PATH: ${{ runner.temp }}/chess-comment.md
+        run: python3 scripts/chess_game.py issue
+
+      - name: Commit updated board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated/ game/
+          if git diff --cached --quiet; then
+            echo "No board change (move was rejected)"
+          else
+            git commit -m "chess: move by @${{ github.event.issue.user.login }}"
+            for attempt in 1 2 3; do
+              if git push; then break; fi
+              git pull --rebase
+            done
+          fi
+
+      - name: Reply and close the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body-file "${{ runner.temp }}/chess-comment.md"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
