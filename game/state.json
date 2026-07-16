@@ -1,12 +1,17 @@
 {
-  "fen": "rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq - 0 1",
+  "fen": "r1bqkbnr/pppppppp/2n5/8/8/P7/1PPPPPPP/RNBQKBNR w KQkq - 1 2",
   "game_no": 1,
   "last_player": "ali-jifi",
-  "last_move": "a2a3",
+  "last_move": "b8c6",
   "recent": [
     {
       "player": "ali-jifi",
       "san": "a3",
+      "game": 1
+    },
+    {
+      "player": "ali-jifi",
+      "san": "Nc6",
       "game": 1
     }
   ],
