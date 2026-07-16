@@ -61,7 +61,7 @@ I'm committed to building software that has a net positive on humanity, particul
 ![Ali's GitHub stats](generated/stats.svg)
 ![Top Langs](generated/languages.svg)
 
-## Community Chess
+## Chess
 
 <!-- CHESS-START -->
 Anyone can play — you move for whichever side is up. It's **White's** turn. Pick a move below: it opens a pre-filled GitHub issue, and pressing **Create** makes your move. The board updates in about a minute.
