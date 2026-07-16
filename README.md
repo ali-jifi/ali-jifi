@@ -1,15 +1,15 @@
-# Howdy! 👋
+# Howdy!
 
 I code to solve problems, create meaningful solutions, and sometimes even for fun (unbelievable, right?).
 Programming enables my engineering side while also offering my creative side freedom.
 I'm committed to building software that has a net positive on humanity — particularly in **AI/ML, aerospace, and networking**.
 
-- 🔭 Currently building data pipelines for satellite science and learning my way toward AI/ML engineering
-- 🌱 Growing into: AI/ML Engineering · Data Science & Engineering · DevOps/MLOps · AI Safety
-- 🤝 Active with [@acmuta](https://github.com/acmuta)
-- 🌐 More about me: [ali-jifi.com](https://www.ali-jifi.com)
+- Currently building data pipelines for satellite science and learning AI/ML engineering
+- Growing into: AI/ML Engineering · Data Science & Engineering · DevOps/MLOps · AI Safety
+- Active with [@acmuta](https://github.com/acmuta)
+- More about me: [ali-jifi.com](https://www.ali-jifi.com)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Built with |
 |---------|------------|------------|
@@ -17,7 +17,7 @@ I'm committed to building software that has a net positive on humanity — parti
 | [satellite-tracker](https://github.com/ali-jifi/satellite-tracker) | Lightweight and powerful 3D satellite tracker | JavaScript |
 | [python-parser](https://github.com/ali-jifi/python-parser) | Open-source parser for complex, incomplete CSV records | Python, regex |
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -56,12 +56,12 @@ I'm committed to building software that has a net positive on humanity — parti
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-jifi&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jifi&layout=compact&theme=transparent&hide_border=true)
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-jifi-bahlool/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.ali-jifi.com)
