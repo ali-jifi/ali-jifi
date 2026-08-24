@@ -11,7 +11,7 @@ I'm committed to building software that has a net positive on humanity, particul
 
 ## Featured Projects
 
-| Project | What it is | Built with |
+| Project | Summary | Stack |
 |---------|------------|------------|
 | [esa-beam-pipeline](https://github.com/ali-jifi/esa-beam-pipeline) | THEMIS ESA satellite data analysis with a pitch-angle-resolved ion beam detection pipeline | Python, pyspedas |
 | [satellite-tracker](https://github.com/ali-jifi/satellite-tracker) | Lightweight and powerful 3D satellite tracker | JavaScript |
