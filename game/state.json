@@ -1,8 +1,8 @@
 {
-  "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2",
+  "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/P7/1PPP1PPP/RNBQKBNR w KQkq - 0 3",
   "game_no": 1,
-  "last_player": "will-maberry",
-  "last_move": "e2e4",
+  "last_player": "ghiyascode",
+  "last_move": "e7e5",
   "recent": [
     {
       "player": "ali-jifi",
@@ -17,6 +17,11 @@
     {
       "player": "will-maberry",
       "san": "e4",
+      "game": 1
+    },
+    {
+      "player": "ghiyascode",
+      "san": "e5",
       "game": 1
     }
   ],
